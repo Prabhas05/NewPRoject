@@ -1,2 +1,4 @@
 SO i am adding this to git 
 testing
+//i have learned git.
+its easy
